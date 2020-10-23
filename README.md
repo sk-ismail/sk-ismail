@@ -2,7 +2,9 @@
 
 - *Mind Your own work* :- Just saying😪
 
-![giphy](https://user-images.githubusercontent.com/42185028/97040748-06493d80-158c-11eb-9530-439233759e33.gif)
+![giphy](https://user-images.githubusercontent.com/42185028/97040748-06493d80-158c-11eb-9530-439233759e33.gif) 
+
+![giphy1](https://user-images.githubusercontent.com/42185028/97041055-866fa300-158c-11eb-894c-477887ae313a.gif)
 
 - 🌱 I’m currently learning React
 
