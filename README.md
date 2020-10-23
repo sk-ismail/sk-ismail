@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- *Mind Your own work* :- Just saying😪
+
 - 🌱 I’m currently learning React
 
 - 🔭 I’m currently working on *null*
