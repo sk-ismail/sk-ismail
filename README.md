@@ -2,6 +2,8 @@
 
 - *Mind Your own work* :- Just saying😪
 
+![giphy](https://user-images.githubusercontent.com/42185028/97040748-06493d80-158c-11eb-9530-439233759e33.gif)
+
 - 🌱 I’m currently learning React
 
 - 🔭 I’m currently working on *null*🥱
