@@ -2,8 +2,6 @@
 
 <p align="center">
 
-![giphy4](https://user-images.githubusercontent.com/42185028/97043264-d1d78080-158f-11eb-9616-4ddea3ba5fdb.gif)
-
 ![giphy5](https://user-images.githubusercontent.com/42185028/97043491-31ce2700-1590-11eb-9e63-e07762fc7ae3.gif)
 
 - 🌱 I’m currently learning React
