@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p style="text-align: center;">
+<p align="center">
 
 - *Mind Your own work* :- Just saying😪
 
