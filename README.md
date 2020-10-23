@@ -1,6 +1,5 @@
->### Hi there 👋
-
 <div align="center">
+>### Hi there 👋
 
 >![giphy4](https://user-images.githubusercontent.com/42185028/97043264-d1d78080-158f-11eb-9616-4ddea3ba5fdb.gif)
 
