@@ -5,7 +5,9 @@
 
 - *Mind Your own work* :- Just saying😪
 
-![giphy2](https://user-images.githubusercontent.com/42185028/97041602-596fc000-158d-11eb-8566-7007d5f28d8d.gif)
+![giphy](https://user-images.githubusercontent.com/42185028/97042467-b455e700-158e-11eb-8244-677f29266497.gif)
+
+
 
 - 🌱 I’m currently learning React
 
