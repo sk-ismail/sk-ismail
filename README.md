@@ -1,4 +1,5 @@
 ### Hi there 👋
+<p style="text-align: center;">
 
 - *Mind Your own work* :- Just saying😪
 
@@ -15,6 +16,8 @@
 - 📫 How to reach me: 6303978910
 
 - 💬 Ask me about:- *🤷‍♂️*
+
+<p>
 <!--
 **sk-ismail/sk-ismail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
