@@ -3,8 +3,6 @@
 
 <p align="center">
 
-- *Mind Your own work* :- Just saying😪
-
 ![giphy](https://user-images.githubusercontent.com/42185028/97042467-b455e700-158e-11eb-8244-677f29266497.gif)
 
 
