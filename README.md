@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-
 <p align="center">
 
-![giphy](https://user-images.githubusercontent.com/42185028/97042467-b455e700-158e-11eb-8244-677f29266497.gif)
-
-
+![giphy4](https://user-images.githubusercontent.com/42185028/97043264-d1d78080-158f-11eb-9616-4ddea3ba5fdb.gif)
 
 - 🌱 I’m currently learning React
 
