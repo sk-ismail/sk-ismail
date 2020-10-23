@@ -1,21 +1,21 @@
-### Hi there 👋
+>### Hi there 👋
 
 <p align="center">
 
-![giphy4](https://user-images.githubusercontent.com/42185028/97043264-d1d78080-158f-11eb-9616-4ddea3ba5fdb.gif)
+>>![giphy4](https://user-images.githubusercontent.com/42185028/97043264-d1d78080-158f-11eb-9616-4ddea3ba5fdb.gif)
 </p>
 
-- 🌱 I’m currently learning React
+>>>- 🌱 I’m currently learning React
 
-- 🔭 I’m currently working on *null*🥱
+>>>>- 🔭 I’m currently working on *null*🥱
 
-- 👯 I’m looking to collaborate on React Projects
+>>>- 👯 I’m looking to collaborate on React Projects
 
-- ⚡ Fun fact: React sucks.
+>>>- ⚡ Fun fact: React sucks.
 
-- 📫 How to reach me: 6303978910
+>>- 📫 How to reach me: 6303978910
 
-- 💬 Ask me about:- *🤷‍♂️*
+>- 💬 Ask me about:- *🤷‍♂️*
 
 
 <!--
