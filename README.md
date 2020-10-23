@@ -1,9 +1,9 @@
 >### Hi there 👋
 
-<p align="center">
+<div align="center">
 
 >>![giphy4](https://user-images.githubusercontent.com/42185028/97043264-d1d78080-158f-11eb-9616-4ddea3ba5fdb.gif)
-</p>
+
 
 >>>- 🌱 I’m currently learning React
 
@@ -17,6 +17,7 @@
 >>>>>>>- 📫 How to reach me: 6303978910
 
 >>>>>>>>- 💬 Ask me about:- *🤷‍♂️*
+</div>
 
 
 <!--
