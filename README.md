@@ -9,13 +9,14 @@
 
 >>>>- 🔭 I’m currently working on *null*🥱
 
->>>- 👯 I’m looking to collaborate on React Projects
 
->>>- ⚡ Fun fact: React sucks.
+>>>>>- 👯 I’m looking to collaborate on React Projects
 
->>- 📫 How to reach me: 6303978910
+>>>>>>- ⚡ Fun fact: React sucks.
 
->- 💬 Ask me about:- *🤷‍♂️*
+>>>>>>>- 📫 How to reach me: 6303978910
+
+>>>>>>>>- 💬 Ask me about:- *🤷‍♂️*
 
 
 <!--
