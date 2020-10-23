@@ -4,7 +4,7 @@
 
 ![giphy](https://user-images.githubusercontent.com/42185028/97040748-06493d80-158c-11eb-9530-439233759e33.gif) 
 
-![giphy1](https://user-images.githubusercontent.com/42185028/97041055-866fa300-158c-11eb-894c-477887ae313a.gif)
+![giphy2](https://user-images.githubusercontent.com/42185028/97041602-596fc000-158d-11eb-8566-7007d5f28d8d.gif)
 
 - 🌱 I’m currently learning React
 
