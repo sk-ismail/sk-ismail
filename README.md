@@ -11,7 +11,7 @@
 
  👯 I’m looking to collaborate on React Projects
 
- ⚡ Fun fact: React sucks.
+ ⚡ Fun fact: Angular sucks.
 
  📫 How to reach me: 6303978910
 
