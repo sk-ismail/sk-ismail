@@ -13,7 +13,7 @@
 
  ⚡ Fun fact: Angular sucks.
 
- 📫 How to reach me: Kingofdemons077@gmail.com
+ 📫 How to reach me: KingOfDemons077@gmail.com
 
  💬 Ask me about:- *🤷‍♂️*
 </div>
