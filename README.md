@@ -17,7 +17,7 @@
 
  💬 Ask me about:- *🤷‍♂️*
  
- ![alt text][1.1]
+[![alt text][1.1]][1]
  
  [1.1]: http://i.imgur.com/tXSoThF.png
  
