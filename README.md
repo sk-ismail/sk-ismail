@@ -7,7 +7,9 @@
 
  🌱 I’m currently learning React
 
- 🔭 I’m currently working on *null*🥱
+ 🔭 I’m currently working on *React Projects*🥱
+ 
+ 🔭 Currently learning *Vue.js, MongoDB*
 
  👯 I’m looking to collaborate on React Projects
 
