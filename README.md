@@ -17,6 +17,8 @@
 
  💬 Ask me about:- *🤷‍♂️*
  
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=sk-ismail)
+ 
 [![alt text][1.1]][1]
  
  [1.1]: http://i.imgur.com/tXSoThF.png
