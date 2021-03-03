@@ -2,7 +2,7 @@
   
 ### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
->![giphy4](https://user-images.githubusercontent.com/42185028/97043264-d1d78080-158f-11eb-9616-4ddea3ba5fdb.gif)
+
 
 
  🌱 I’m currently working on React projects🥱
@@ -59,7 +59,7 @@
 Here are some ideas to get you started:
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sk-ismail&langs_count=10&theme=highcontrast)](https://github.com/sk-ismail/github-readme-stats)
-
+>![giphy4](https://user-images.githubusercontent.com/42185028/97043264-d1d78080-158f-11eb-9616-4ddea3ba5fdb.gif)
 
 - 🤔 I’m looking for help with ...
 
