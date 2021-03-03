@@ -17,6 +17,8 @@
 
  💬 Ask me about:- *🤷‍♂️*
  
+ ![counter](https://enqitqkmp6w3302.m.pipedream.net)
+ 
  ![Github stats](https://github-readme-stats.vercel.app/api?username=sk-ismail)
  
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sk-ismail&repo=FlightBookingApp)         ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sk-ismail&repo=Netflix-Clone)
