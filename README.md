@@ -21,8 +21,8 @@
  
  ![Ismail's GitHub stats](https://github-readme-stats.vercel.app/api?username=sk-ismail&show_icons=true&theme=radical)
  
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sk-ismail&repo=FlightBookingApp&theme=merko)         ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sk-ismail&repo=Netflix-Clone&theme=merko)
-  ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sk-ismail&repo=Home-Jam-code&theme=merko) 
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sk-ismail&repo=FlightBookingApp&theme=tokyonight)         ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sk-ismail&repo=Netflix-Clone&theme=tokyonight)
+  ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sk-ismail&repo=Home-Jam-code&theme=tokyonight) 
  
  
  
