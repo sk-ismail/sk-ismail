@@ -19,7 +19,7 @@
  
  ![counter](https://enqitqkmp6w3302.m.pipedream.net)
  
- ![Github stats](https://github-readme-stats.vercel.app/api?username=sk-ismail)
+ ![Ismail's GitHub stats](https://github-readme-stats.vercel.app/api?username=sk-ismail&show_icons=true&theme=radical)
  
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sk-ismail&repo=FlightBookingApp)         ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sk-ismail&repo=Netflix-Clone)
   ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sk-ismail&repo=Home-Jam-code) 
