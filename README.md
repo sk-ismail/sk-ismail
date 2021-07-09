@@ -41,7 +41,7 @@
 [![alt text][1.1]][1]
 
 [1.1]: http://i.imgur.com/tXSoThF.png
-[1]: https://twitter.com/irfan_sk_
+[1]: https://twitter.com/ismail_sk_
 
 </div>
 
