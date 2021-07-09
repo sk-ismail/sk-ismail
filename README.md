@@ -43,6 +43,8 @@
 [1.1]: http://i.imgur.com/tXSoThF.png
 [1]: https://twitter.com/ismail_sk_
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sk-ismail&langs_count=10&theme=highcontrast)](https://github.com/sk-ismail/github-readme-stats)
+
 </div>
 
 <!--
@@ -50,8 +52,7 @@
 
 Here are some ideas to get you started:
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sk-ismail&langs_count=10&theme=highcontrast)](https://github.com/sk-ismail/github-readme-stats)
->![giphy4](https://user-images.githubusercontent.com/42185028/97043264-d1d78080-158f-11eb-9616-4ddea3ba5fdb.gif)
+> ![giphy4](https://user-images.githubusercontent.com/42185028/97043264-d1d78080-158f-11eb-9616-4ddea3ba5fdb.gif)
 
 - 🤔 I’m looking for help with ...
 
