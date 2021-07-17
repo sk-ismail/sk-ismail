@@ -6,7 +6,7 @@
 
 🌱 I’m currently working on MERN projects🥱
 
-🔭 Currently learning _React Native_
+🔭 Currently learning _React Native_ , _Blockchain_ , _Smart Contracts_
 
 👯 I’m looking to collaborate on React Projects
 
